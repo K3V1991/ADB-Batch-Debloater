@@ -1,4 +1,4 @@
-<p align="center"><img src="LINK" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/ADB-Batch-Debloater/blob/main/Uninstall.png" width="200"></a>
 <h1 align="center"><b>ADB Batch Debloater</b></h1>
 <h4 align="center">A Batch Script to easily uninstall Android Apps</h4>
 <br />
@@ -15,16 +15,23 @@
 
 ## NFO:
 * The Keep Data Batch tells the Package Manager to keep the Cache and Data Directories
-* Uses latest ADB Files (SDK Platform Tools v34.0.0-9570255, February 2023)
+* Uses latest ADB Files (SDK Platform Tools v34.0.1-9680074, March 2023)
 <br />
 
 # Usage:
 1. Download the latest Version from ```Releases Tab```
 2. Extract the downloaded Zip
 3. Add App Package Names to the ```Debloat.txt``` (Examples available in File)
-4. Double-click the ```ADB Batch Debloater.bat``` or ```ADB Batch Debloater - Keep Data.bat```to easily uninstall all Apps in the Debloat List
+4. Double-click the ```ADB Batch Debloater.bat``` or ```ADB Batch Debloater - Keep Data.bat``` to easily uninstall all Apps in the Debloat List
 
 ## How to re-install an App:
 You can re-install the App using the following Command:
-```adb shell pm install-existing "PackageName"```
+```adb shell pm install-existing "Package Name"```
+<br />
+<br />
 
+## Screenshots:
+<img src="https://github.com/K3V1991/ADB-Batch-Debloater/blob/main/Screenshot-1.png"></a>
+<br />
+
+<img src="https://github.com/K3V1991/ADB-Batch-Debloater/blob/main/Screenshot-2.png"></a>
